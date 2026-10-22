@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($s = \"C:\\\\Users\\\\JEEVAN~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--everything-esp32\\\\a4d9fda0-adbd-4e02-9845-dacd59c47526\\\\scratchpad\"; Copy-Item \"d:\\\\everything\\\\friday\\\\Architechture.jpg\" \"$s\\\\arch.jpg\"; Set-Location D:\\\\everything\\\\esp32; python -c \"import json,sys; from pathlib import Path; import locate as L; p=Path\\(sys.argv[1]\\); r=L.locate\\(p,'where is the PostgreSQL box'\\); print\\(json.dumps\\(r,indent=2\\)\\); print\\(L.draw_boxes\\(p,r\\)\\)\" \"$s\\\\arch.jpg\")",
+      "PowerShell(python \"C:\\\\Users\\\\JEEVAN~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--everything-esp32\\\\a4d9fda0-adbd-4e02-9845-dacd59c47526\\\\scratchpad\\\\pixel_test.py\" \"C:\\\\Users\\\\JEEVAN~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--everything-esp32\\\\a4d9fda0-adbd-4e02-9845-dacd59c47526\\\\scratchpad\\\\arch.jpg\")"
+    ]
+  }
+}
